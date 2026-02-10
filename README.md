@@ -1,1 +1,2 @@
-(amazon.png)
+## 📸 Project Preview
+![Amazon Clone Screenshot](amazon.png)
